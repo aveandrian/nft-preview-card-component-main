@@ -20,3 +20,5 @@ Users should be able to:
 ### Screenshot
 
 ![image](https://user-images.githubusercontent.com/13519212/235984992-0c4583a5-0714-4784-b666-22af47e4130f.png)
+![image](https://user-images.githubusercontent.com/13519212/235985170-f8399d37-fe5c-41d3-9025-3d513b929cf9.png)
+
